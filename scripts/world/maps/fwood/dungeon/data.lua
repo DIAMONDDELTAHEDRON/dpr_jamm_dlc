@@ -12,7 +12,7 @@ return {
   nextlayerid = 8,
   nextobjectid = 16,
   properties = {
-    ["border"] = "deoxynn/deep_forest"
+    ["border"] = "deep_forest"
   },
   tilesets = {
     {

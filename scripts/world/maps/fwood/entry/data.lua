@@ -12,7 +12,7 @@ return {
   nextlayerid = 7,
   nextobjectid = 23,
   properties = {
-    ["border"] = "deoxynn/deep_forest",
+    ["border"] = "deep_forest",
     ["music"] = "forgotten_wood",
     ["name"] = "F. Wood - Entrance"
   },

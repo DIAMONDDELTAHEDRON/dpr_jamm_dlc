@@ -143,7 +143,7 @@ return {
 			Game:setFlag("jamm_cross_2", 0)
         else
             Game.world:mapTransition("fwood/graves", "entry")
-			Assets.playSound("incorrect", 1, 1)
+			Assets.playSound("error", 1, 1)
 			Game:setFlag("jamm_cross", 0)
 			Game:setFlag("jamm_cross_2", 0)
                 
@@ -169,7 +169,7 @@ return {
 			Game:addFlag("jamm_cross_2", 1)
         else
             Game.world:mapTransition("fwood/graves", "entry")
-			Assets.playSound("incorrect", 1, 1)
+			Assets.playSound("error", 1, 1)
 			Game:setFlag("jamm_cross", 0)
 			Game:setFlag("jamm_cross_2", 0)
         end
@@ -181,7 +181,7 @@ return {
 			Game:addFlag("jamm_cross_2", 1)
         else
             Game.world:mapTransition("fwood/graves", "entry")
-			Assets.playSound("incorrect", 1, 1)
+			Assets.playSound("error", 1, 1)
 			Game:setFlag("jamm_cross", 0)
 			Game:setFlag("jamm_cross_2", 0)
         end
@@ -208,7 +208,7 @@ return {
             Game.world:mapTransition("fwood/graves", "entry")
 			Game:setFlag("jamm_cross", 0)
 			Game:setFlag("jamm_cross_2", 0)
-			Assets.playSound("incorrect", 1, 1)
+			Assets.playSound("error", 1, 1)
         end
 	end,
 	
