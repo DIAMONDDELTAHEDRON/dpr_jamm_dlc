@@ -4,7 +4,7 @@
   <export target="data.lua" format="lua"/>
  </editorsettings>
  <properties>
-  <property name="border" value="deoxynn/deep_forest"/>
+  <property name="border" value="deep_forest"/>
  </properties>
  <tileset firstgid="1" source="../../../tilesets/forgotten_wood.tsx"/>
  <tileset firstgid="430" source="../../../tilesets/jamm_dungeon.tsx"/>

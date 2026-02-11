@@ -4,7 +4,7 @@
   <export target="data.lua" format="lua"/>
  </editorsettings>
  <properties>
-  <property name="border" value="deoxynn/deep_forest"/>
+  <property name="border" value="deep_forest"/>
   <property name="music" value="forgotten_wood"/>
   <property name="name" value="F. Wood - Entrance"/>
  </properties>
